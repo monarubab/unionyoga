@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/unionyoga/static/css/main.5014f15c.chunk.css",
+    "main.js": "/unionyoga/static/js/main.662dea14.chunk.js",
+    "main.js.map": "/unionyoga/static/js/main.662dea14.chunk.js.map",
+    "runtime-main.js": "/unionyoga/static/js/runtime-main.4f6c7f14.js",
+    "runtime-main.js.map": "/unionyoga/static/js/runtime-main.4f6c7f14.js.map",
+    "static/js/2.438715d1.chunk.js": "/unionyoga/static/js/2.438715d1.chunk.js",
+    "static/js/2.438715d1.chunk.js.map": "/unionyoga/static/js/2.438715d1.chunk.js.map",
+    "index.html": "/unionyoga/index.html",
+    "static/css/main.5014f15c.chunk.css.map": "/unionyoga/static/css/main.5014f15c.chunk.css.map",
+    "static/js/2.438715d1.chunk.js.LICENSE.txt": "/unionyoga/static/js/2.438715d1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/unionyoga/static/media/img-8.31ece1f1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f6c7f14.js",
+    "static/js/2.438715d1.chunk.js",
+    "static/css/main.5014f15c.chunk.css",
+    "static/js/main.662dea14.chunk.js"
+  ]
+}
