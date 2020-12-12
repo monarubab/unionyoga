@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/unionyoga/static/css/main.1c400d77.chunk.css",
+    "main.js": "/unionyoga/static/js/main.cb7bace2.chunk.js",
+    "main.js.map": "/unionyoga/static/js/main.cb7bace2.chunk.js.map",
+    "runtime-main.js": "/unionyoga/static/js/runtime-main.4f6c7f14.js",
+    "runtime-main.js.map": "/unionyoga/static/js/runtime-main.4f6c7f14.js.map",
+    "static/js/2.438715d1.chunk.js": "/unionyoga/static/js/2.438715d1.chunk.js",
+    "static/js/2.438715d1.chunk.js.map": "/unionyoga/static/js/2.438715d1.chunk.js.map",
+    "index.html": "/unionyoga/index.html",
+    "static/css/main.1c400d77.chunk.css.map": "/unionyoga/static/css/main.1c400d77.chunk.css.map",
+    "static/js/2.438715d1.chunk.js.LICENSE.txt": "/unionyoga/static/js/2.438715d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f6c7f14.js",
+    "static/js/2.438715d1.chunk.js",
+    "static/css/main.1c400d77.chunk.css",
+    "static/js/main.cb7bace2.chunk.js"
+  ]
+}
